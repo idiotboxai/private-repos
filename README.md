@@ -1,73 +1,43 @@
 # Welcome to My Private Repositories
 
-## Login Screen
-Explore various login screens for your projects.
+```bash
+├── \033[38;5;208mLogin Screen\033[0m
+│   ├── \033[38;5;45mLogin Page - Firebase\033[0m - A comprehensive login page integrated with Firebase authentication. [Link](link_to_repo)
+│   └── \033[38;5;45mSign Up Pages\033[0m - All-inclusive sign-up pages powered by Firebase. [Link](link_to_repo)
 
-[Login Page - Firebase](link_to_repo) - A comprehensive login page integrated with Firebase authentication.
+├── \033[38;5;208mUnique Dashboard\033[0m
+│   └── \033[38;5;45mUnique Dashboard\033[0m - Experience a dashboard tailored to your needs. [Link](link_to_repo)
 
-## Sign Up Pages
-Discover sign-up pages with Firebase integration.
+├── \033[38;5;208mNavigation Cool Bar\033[0m
+│   └── \033[38;5;45mNavigation Cool Bar\033[0m - A sleek navigation bar for seamless navigation. [Link](link_to_repo)
 
-[Sign Up Pages](link_to_repo) - All-inclusive sign-up pages powered by Firebase.
+├── \033[38;5;208mCustom Loading Screen\033[0m
+│   └── \033[38;5;45mCustom Loading Screen\033[0m - Engaging loading screens to keep users entertained. [Link](link_to_repo)
 
-## Unique Dashboard
-Access a unique and customizable dashboard for your applications.
+├── \033[38;5;208mEcommerce Pre-made Templates\033[0m
+│   └── \033[38;5;45mEcommerce Templates\033[0m - Ready-to-use templates for ecommerce projects. [Link](link_to_repo)
 
-[Unique Dashboard](link_to_repo) - Experience a dashboard tailored to your needs.
+├── \033[38;5;208mUpdate, Remove, Insert Templates\033[0m
+│   └── \033[38;5;45mData Management Templates\033[0m - Simplify data management tasks with these templates. [Link](link_to_repo)
 
-## Navigation Cool Bar
-Enhance navigation with a cool and stylish navigation bar.
+├── \033[38;5;208mOnboarding Screens\033[0m
+│   └── \033[38;5;45mOnboarding Screens\033[0m - Introduce users to your app's features with ease. [Link](link_to_repo)
 
-[Navigation Cool Bar](link_to_repo) - A sleek navigation bar for seamless navigation.
+├── \033[38;5;208mSplash Screens\033[0m
+│   └── \033[38;5;45mSplash Screens\033[0m - Eye-catching splash screens to grab users' attention. [Link](link_to_repo)
 
-## Custom Loading Screen
-Improve user experience with custom loading screens.
+├── \033[38;5;208mIcon Packs\033[0m
+│   └── \033[38;5;45mIcon Packs\033[0m - Access a variety of icons to suit your app's style. [Link](link_to_repo)
 
-[Custom Loading Screen](link_to_repo) - Engaging loading screens to keep users entertained.
+├── \033[38;5;208mLogo Packs\033[0m
+│   └── \033[38;5;45mLogo Packs\033[0m - Build a strong brand identity with these logo packs. [Link](link_to_repo)
 
-## Ecommerce Pre-made Templates
-Explore pre-made templates for ecommerce applications.
+├── \033[38;5;208mBottom Navigation Packs\033[0m
+│   └── \033[38;5;45mBottom Navigation Packs\033[0m - Streamline navigation with these packs. [Link](link_to_repo)
 
-[Ecommerce Templates](link_to_repo) - Ready-to-use templates for ecommerce projects.
+├── \033[38;5;208mLottie Animation Packs\033[0m
+│   └── \033[38;5;45mLottie Animation Packs\033[0m - Incorporate dynamic animations into your projects. [Link](link_to_repo)
 
-## Update, Remove, Insert Templates
-Efficiently manage data with update, remove, and insert templates.
-
-[Data Management Templates](link_to_repo) - Simplify data management tasks with these templates.
-
-## Onboarding Screens
-Guide users through your app with captivating onboarding screens.
-
-[Onboarding Screens](link_to_repo) - Introduce users to your app's features with ease.
-
-## Splash Screens
-Make a memorable first impression with splash screens.
-
-[Splash Screens](link_to_repo) - Eye-catching splash screens to grab users' attention.
-
-## Icon Packs
-Find a collection of icon packs to enhance your app's visuals.
-
-[Icon Packs](link_to_repo) - Access a variety of icons to suit your app's style.
-
-## Logo Packs
-Discover logo packs for branding your applications.
-
-[Logo Packs](link_to_repo) - Build a strong brand identity with these logo packs.
-
-## Bottom Navigation Packs
-Navigate effortlessly with bottom navigation packs.
-
-[Bottom Navigation Packs](link_to_repo) - Streamline navigation with these packs.
-
-## Lottie Animation Packs
-Add flair to your app with Lottie animation packs.
-
-[Lottie Animation Packs](link_to_repo) - Incorporate dynamic animations into your projects.
-
-## Completed Projects
-Explore completed projects for inspiration and learning.
-
-[Project 1](link_to_repo) - Description of Project 1.
-[Project 2](link_to_repo) - Description of Project 2.
-
+└── \033[38;5;208mCompleted Projects\033[0m
+    ├── \033[38;5;45mProject 1\033[0m - Description of Project 1. [Link](link_to_repo)
+    └── \033[38;5;45mProject 2\033[0m - Description of Project 2. [Link](link_to_repo)
